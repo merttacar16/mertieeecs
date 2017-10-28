@@ -1,0 +1,2 @@
+# mertieeecs
+github eğitimi
