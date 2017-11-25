@@ -17,10 +17,10 @@ def cikarma(sayi1, sayi2):
     kalan = sayi1-sayi2
     return kalan
 def carp(sayi1, sayi2):
-	carpim = sayi1*sayi2
+    carpim = sayi1*sayi2
     return carpim
 def bol(sayi1, sayi2):
-	bolum = sayi1/sayi2
+    bolum = sayi1/sayi2
     return bolum 
 
 if(islem == "1"):
